@@ -27,7 +27,7 @@ I investigate how data, AI, and digital platforms shape the world — and I buil
 | Project | Description | Stack |
 |---|---|---|
 | [Portfolio App](https://cmt-120-cw-2-git-cmt120-cw.apps.containers.cs.cf.ac.uk) | Full-stack data journalism portfolio — deployed on OpenShift | Python · Flask · SQLite · Docker |
-| Dark Patterns Detection *(coming June 2026)* | AI pipeline detecting manipulative language in UK app T&Cs | Python · Claude API |
+| Dark Patterns Detection *(June 2026)* | AI pipeline detecting manipulative language in UK app T&Cs | Python · Claude API |
 
 ---
 
